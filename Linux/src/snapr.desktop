@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Snapr
+Version=1.0
+Comment=Fast and simple screen capturing and sharing.
+Exec=snapr
+Terminal=false
+Type=Application
+Icon=snapr
+Categories=Utility;Graphics;
+StartupNotify=false

@@ -1,0 +1,3 @@
+src/snapr.rb /usr/bin
+src/snapr.desktop /usr/share/applications
+icons/snapr.png /usr/share/pixmaps

@@ -1,0 +1,10 @@
+Package: snapr
+Version: 1.0-1
+Architecture: all
+Maintainer: Zander van der Meer <zander.meer@gmail.com>
+Installed-Size: 56
+Depends: ruby, imagemagick
+Section: graphics
+Priority: optional
+Homepage: http://snapr.pw
+Description: Fast and simple screen capturing and sharing.

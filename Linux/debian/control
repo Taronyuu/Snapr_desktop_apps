@@ -1,0 +1,12 @@
+Source: snapr
+Section: graphics
+Priority: optional
+Maintainer: Zander van der Meer <zander.meer@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://snapr.pw
+
+Package: snapr
+Architecture: all
+Depends: ruby, imagemagick
+Description: Fast and simple screen capturing and sharing.

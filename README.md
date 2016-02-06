@@ -1,2 +1,4 @@
 # Snapr_desktop_apps
-All desktop apps of Snapr safely stored in 1 repository. 
+Here you can find all desktop apps (Windows, Linux and Mac) used for Snapr.
+
+These aren't cleaned and should be used only if you know what you are doing.
